@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ivocarrionsg.github.io/handbook-1tyu2m/sitemap.xml
